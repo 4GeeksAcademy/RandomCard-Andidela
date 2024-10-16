@@ -1,1 +1,28 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+.card {
+  width: 370px;
+  height: 550px;
+  margin-top: 25px;
+  margin-left: 500px;
+  border-radius: 20px;
+}
+.boton {
+  margin-left: 600px;
+  margin-top: 10px;
+}
+.tarjeta {
+  font-size: 100px;
+  padding-top: 25px;
+}
+#topSuit {
+  margin-left: 18px;
+}
+#ranks {
+  margin-left: 150px;
+}
+#bottomSuit {
+  margin-left: 255px;
+}
